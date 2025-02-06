@@ -61,7 +61,7 @@ include('header.php');
                 <div class="col-lg-6">
                     <div class="home__about__text">
                         <div class="section-title">
-                            <h2>Thousands Of Customers Trust Our Company</h2>
+                            <h2>Hundreds Of Customers Trust Our Company</h2>
                             <p>The brochure must grab a viewer’s attention and hold it long enough to deliver the
                                 pertinent information. How do you grab your customers’ attention with just a piece</p>
                         </div>
