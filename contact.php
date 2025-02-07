@@ -1,3 +1,7 @@
+<?php 
+include('header.php');
+?>
+
 
     <!-- Breadcrumb Section Begin -->
     <div class="breadcrumb-option contact-breadcrumb set-bg" data-setbg="img/breadcrumb/contact-breadcrumb.jpg">
@@ -37,40 +41,24 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="col-lg-12 col-md-12 col-sm-6">
                     <div class="contact__address__item">
-                        <h4>New York Office</h4>
+                        <h4>Office Address</h4>
                         <ul>
-                            <li><i class="fa fa-map-marker"></i> 917 Atlantic Lane, Strongsville, <br />NY, United State
-                            </li>
-                            <li><i class="fa fa-phone"></i> (+12) 345-678-910</li>
-                            <li><i class="fa fa-envelope"></i> newyork.info@colorlib.com</li>
+                            <li><i class="fa fa-map-marker"></i> Ggaba Road, Kansanga<br /> Opposite KIU, kampala, Main Gate</li>
+                            <li><i class="fa fa-phone"></i> (+256) 752-549-509</li>
+                            <li><i class="fa fa-envelope"></i> lorocredit.co.ug</li>
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-6">
-                    <div class="contact__address__item">
-                        <h4>New Jersey Office</h4>
-                        <ul>
-                            <li><i class="fa fa-map-marker"></i> 171 Logan Lane, Union City <br />NJ, United Statee</li>
-                            <li><i class="fa fa-phone"></i> (+12) 345-678-910</li>
-                            <li><i class="fa fa-envelope"></i> newjersey.info@colorlib.com</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6">
-                    <div class="contact__address__item">
-                        <h4>Washington Office</h4>
-                        <ul>
-                            <li><i class="fa fa-map-marker"></i> 9 East Bear Hill St. Great Falls <br />Washington,
-                                United State</li>
-                            <li><i class="fa fa-phone"></i> (+12) 345-678-910</li>
-                            <li><i class="fa fa-envelope"></i> washington.info@colorlib.com</li>
-                        </ul>
-                    </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- Contact End -->
 
+
+
+<?php 
+include('footer.php');
+?>

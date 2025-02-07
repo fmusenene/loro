@@ -3303,3 +3303,13 @@ ol {
 		font-size: 24px;
 	}
 }
+
+.loro-credit {
+	color: #88c417;
+}
+.success-message {
+	color: green;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 10px;
+}
