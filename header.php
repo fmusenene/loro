@@ -1,10 +1,10 @@
-<!DOCTYPE html>
-<html lang="zxx">
+<!DOCTYPE php>
+<php lang="zxx">
 
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="LORO">
-    <meta name="keywords" content="Loanday, unica, creative, html">
+    <meta name="keywords" content="Loro, unica, creative, php">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>LORO | sLOGAN...</title>
@@ -39,7 +39,7 @@
             <i class="fa fa-search search-switch"></i>
         </div>
         <div class="offcanvas__logo">
-            <a href="./index.php"><img src="img/logo.png" alt=""></a>
+            <a href="./index.php"><img src="img/logo.jpg" alt=""></a>
         </div>
         <nav class="offcanvas__menu mobile-menu">
             <ul>
